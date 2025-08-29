@@ -48,9 +48,7 @@
   <a href="https://www.linkedin.com/in/vitorgianeis/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCJfrLZgpsrVxbdLvfQBTTZlKTFjbZbHhrcmmVBprNnbNlljsjmnthbXHXhpRxhgQJVvGwkg">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  
   <a href="https://www.instagram.com/vitor_gianeis/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
