@@ -1,16 +1,57 @@
-## Hi there 👋
+<!-- Futuristic GitHub Profile - Vitor Hugo Gianeis de Souza -->
 
-<!--
-**vitorgianeis/vitorgianeis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">🚀 Vitor Hugo Gianeis de Souza</h1>
+<h3 align="center">🎧 Técnico de Eventos | 🎚️ Iluminação & Sonoplastia | 💻 Programação</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://img.shields.io/github/followers/vitorgianeis?logo=github&style=for-the-badge&color=00FFFF" />
+  <img src="https://img.shields.io/github/stars/vitorgianeis?logo=github&style=for-the-badge&color=ff00ff" />
+</p>
+
+---
+
+### 👨‍💻 Sobre mim
+- 🔦 Especialista em **Iluminação de shows e eventos** (GrandMA, 3D, programação de luz)  
+- 🔊 Experiência em **Sonoplastia e operação de som**  
+- 💻 Conhecimentos em **Programação** (HTML, Node.js, CRUD, Lógica)  
+- 🎯 Buscando unir **tecnologia + arte** para criar experiências únicas  
+
+---
+
+### 🛠️ Tecnologias e Ferramentas
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,js,nodejs,github,vscode,discord" />
+</p>
+
+---
+
+### 📊 Estatísticas do GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vitorgianeis&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=vitorgianeis&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorgianeis&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+### 🌐 Conecte-se comigo
+<p align="center">
+  <a href="https://www.linkedin.com/in/vitorhgianeis" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:vitorhgianeis@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+✨ “Transformando luz, som e código em experiências únicas.”  
