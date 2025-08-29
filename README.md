@@ -47,7 +47,7 @@
 
 ### 🌐 Conecte-se comigo
 <p align="center">
-  <a href="https://www.linkedin.com/in/vitorhgianeis" target="_blank">
+  <a href="[https://www.linkedin.com/in/vitorhgianeis](https://www.linkedin.com/in/vitorgianeis/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:vitorhgianeis@gmail.com">
