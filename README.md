@@ -6,8 +6,11 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/vitorgianeis?logo=github&style=for-the-badge&color=00FFFF" />
-  <img src="https://img.shields.io/github/stars/vitorgianeis?logo=github&style=for-the-badge&color=ff00ff" />
+ 
+<a href="https://www.instagram.com/vitor_gianeis/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
 </p>
 
 ---
